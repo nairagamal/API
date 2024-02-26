@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "rnoZl3MlNfbkg4dW+yoANrazatOKxNJvg+DFKENoL2Y=",
+  "Source": "Day1",
+  "BasePath": "_content/Day1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Day1\\wwwroot",
+      "Source": "Day1",
+      "ContentRoot": "D:\\ITI\\C Sharp\\oop\\Linq\\WebApi\\Day1\\Day1\\wwwroot\\",
+      "BasePath": "_content/Day1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ITI\\C Sharp\\oop\\Linq\\WebApi\\Day1\\Day1\\wwwroot\\htmlpage.html",
+      "SourceId": "Day1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI\\C Sharp\\oop\\Linq\\WebApi\\Day1\\Day1\\wwwroot\\",
+      "BasePath": "_content/Day1",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    }
+  ]
+}

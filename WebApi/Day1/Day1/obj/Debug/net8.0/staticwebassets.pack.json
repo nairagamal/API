@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI\\C Sharp\\oop\\Linq\\WebApi\\Day1\\Day1\\wwwroot\\htmlpage.html",
+      "PackagePath": "staticwebassets\\htmlpage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Day1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Day1.props",
+      "PackagePath": "build\\Day1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Day1.props",
+      "PackagePath": "buildMultiTargeting\\Day1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Day1.props",
+      "PackagePath": "buildTransitive\\Day1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
